@@ -1,0 +1,38 @@
+* {
+    font-family: 'Poppins';
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+h1 {
+    padding: 50px;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+#index-tambah {
+    font-weight: bold;
+    background-color: #308EFF;
+    border: 0;
+    border-radius: 10px;
+    color: white;
+    padding: 10px 20px;
+    margin-right: 20px;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+
+td {
+    text-align: center;
+}
